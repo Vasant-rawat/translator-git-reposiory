@@ -1,14 +1,4 @@
-# from tkinter import *
-# from tkinter import ttk
-# root = Tk()
-# root.title("Translator")
-# root.geometry("500*1000")
-# root.config(bg='Red')
-# lab_txt=Label(root,text="Translator",font=("Time New Roman",20,"bold"))
-# lab_txt.place(x=100,y=40,height=100,widht=300)
-
-
-# root.mainloop()
+#TRANSLATOR USING PYThoN
 from tkinter import *
 from tkinter import ttk
 from googletrans import Translator,LANGUAGES
